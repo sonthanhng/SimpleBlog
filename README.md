@@ -1,3 +1,3 @@
 # README
 
-This is a simple blog with manager post and comment using Ruby On Rails.
+This is a simple blog managing posts and comments (add, delete, edit) using Ruby On Rails.
